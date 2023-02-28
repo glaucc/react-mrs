@@ -10,7 +10,7 @@ const LoggedInComponent = lazy(() => import("./logged_in/components/Main"));
 const LoggedOutComponent = lazy(() => import("./logged_out/components/Main"));
 
 function App() {
-  return (
+  return ( 
     <BrowserRouter>
       <StyledEngineProvider injectFirst>
         <ThemeProvider theme={theme}>
