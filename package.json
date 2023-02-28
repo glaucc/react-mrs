@@ -1,5 +1,5 @@
 {
-  "name": "react-saas-template",
+  "name": "mrs. Polyglote",
   "version": "1.0.0",
   "private": true,
   "homepage": "/",
@@ -71,8 +71,8 @@
     "type": "git",
     "url": "git+https://github.com/glaucc/saas-fren.git"
   },
-  "author": "dunky11",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "bugs": {
     "url": ""
   },
