@@ -133,9 +133,9 @@ function HeadSection(props) {
                           fullWidth
                           className={classes.extraLargeButton}
                           classes={{ label: classes.extraLargeButtonLabel }}
-                          href="https://github.com/dunky11/react-saas-template"
+                          href="https://instagram.com/xaricidilleri_oyreden_teacher?igshid=YmMyMTA2M2Y="
                         >
-                          Download from GitHub
+                          Check Out More
                         </Button>
                       </div>
                     </Box>

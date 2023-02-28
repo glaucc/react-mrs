@@ -243,7 +243,7 @@ function NavBar(props) {
                 display="inline"
                 color="secondary"
               >
-                Ver
+                Polyglote
               </Typography>
             </Hidden>
           </Box>
