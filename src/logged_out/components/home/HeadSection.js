@@ -115,8 +115,7 @@ function HeadSection(props) {
                     >
                       <Box mb={4}>
                         <Typography variant={isWidthUpLg ? "h3" : "h4"}>
-                          Free Template for building a SaaS app using
-                          Material-UI
+                           Are you exhausted of studying French? You've arrived at the perfect spot!
                         </Typography>
                       </Box>
                       <div>
@@ -125,8 +124,7 @@ function HeadSection(props) {
                             variant={isWidthUpLg ? "h6" : "body1"}
                             color="textSecondary"
                           >
-                            Lorem ipsum dolor sit amet, consetetur sadipscing
-                            elitr, sed diam nonumy eirmod tempor invidunt
+                            Mrs. Polyglote's classroom is the ideal spot to hone Your French skills.
                           </Typography>
                         </Box>
                         <Button
@@ -142,7 +140,7 @@ function HeadSection(props) {
                       </div>
                     </Box>
                   </Grid>
-                  <Hidden mdDown>
+                  {/* <Hidden mdDown>
                     <Grid item md={6}>
                       <ZoomImage
                         src={`${process.env.PUBLIC_URL}/images/logged_out/headerImage.jpg`}
@@ -150,7 +148,7 @@ function HeadSection(props) {
                         alt="header example"
                       />
                     </Grid>
-                  </Hidden>
+                  </Hidden> */}
                 </Box>
               </div>
             </Card>
